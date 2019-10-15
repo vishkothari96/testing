@@ -1,2 +1,3 @@
 This is the check2 file
 This is version4
+Test line in this file
