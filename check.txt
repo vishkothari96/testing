@@ -1,2 +1,2 @@
 This is a test file
-Version 3 of the file
+Version 4 of the file
